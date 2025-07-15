@@ -5,4 +5,4 @@ Example Typescript Code and UnitTest With Jest
 - execute code
   - run command : npm run start
 - unit test
-  - run command : npm run start
+  - run command : npm run test or npm run test:cov
